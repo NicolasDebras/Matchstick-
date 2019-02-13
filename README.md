@@ -8,7 +8,7 @@ https://www.fan-fortboyard.fr/pages/emission/conseil/batonnets.html
 
 $> ./matchstick 2 10
 *****
-* | *
+* |\n*
 *|||*
 *****
 
